@@ -5,8 +5,8 @@ activities associated with developing a CASE tool for structured software analys
 • The case tool should support a graphical interface and the following 
 features. 
 • The user should be able to draw bubbles, data stores, and entities and 
-connect them using data flow arrows. The data flow arrows are annotated 
-by the corresponding data names.
+  connect them using data flow arrows. The data flow arrows are annotated 
+  by the corresponding data names.
 • Should support editing the data flow diagram.
 • Should be able to create the diagram hierarchically. The user should be 
 able to determine balancing errors whenever required. 
